@@ -1,0 +1,9 @@
+C:\Users\AB_SofT\source\repos\data base\data base\bin\Debug\data base.exe
+C:\Users\AB_SofT\source\repos\data base\data base\bin\Debug\data base.pdb
+C:\Users\AB_SofT\source\repos\data base\data base\obj\Debug\data base.csprojAssemblyReference.cache
+C:\Users\AB_SofT\source\repos\data base\data base\obj\Debug\data_base.Form1.resources
+C:\Users\AB_SofT\source\repos\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+C:\Users\AB_SofT\source\repos\data base\data base\obj\Debug\data base.csproj.GenerateResource.cache
+C:\Users\AB_SofT\source\repos\data base\data base\obj\Debug\data base.csproj.CoreCompileInputs.cache
+C:\Users\AB_SofT\source\repos\data base\data base\obj\Debug\data base.exe
+C:\Users\AB_SofT\source\repos\data base\data base\obj\Debug\data base.pdb
